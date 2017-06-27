@@ -1,2 +1,6 @@
 # css-guideline
-Guidelines to css
+
+# Introdution
+
+# BEM
+# SCMACSS
